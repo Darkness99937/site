@@ -94,12 +94,12 @@ clients:
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "The best specialists in the field of investment"
+    subtext: The main task of an investor is to select the most promising financial assets to create an optimal structure that will provide sufficient potential profit with low financial risks.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Alex Garland"
+        role: "Director"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -118,8 +118,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Carl Perterson"
+        role: "Lead Economist"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
@@ -148,8 +148,9 @@ footer:
       - url: https://instagram.com
         icon: "fab fa-instagram"
 
-aboutpage: 
-    title: "About Us"
-
+about:
+  text: "Our specialists and analysts have been working in this market for many years and have thoroughly studied all its aspects. This allows us to invest only in projects that provide consistently high income and provide collateral that minimizes any risks."
+  subtext: "And we are ready to help you understand this area and show you how you can correctly and easily make money on investments."
+  image: assets/img/about/1.jpg
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

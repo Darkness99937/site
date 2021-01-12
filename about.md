@@ -1,6 +1,5 @@
 ---
-layout: page
+layout: about
 title: About us
 background: grey
 ---
-{% include aboutpage.html %}
